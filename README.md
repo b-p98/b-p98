@@ -1,3 +1,3 @@
 - Hello! I'm @b-p98, a computer engineering student at Binghamton University
-- If you are interested in contacting me, you can contact me by email here: bpicone1@binghamton.edu 
+- If you are interested in contacting me, my email is bpicone1@binghamton.edu 
 - Happy coding!
